@@ -1,0 +1,270 @@
+{
+    "group30": [
+        {
+            "id": 1,
+            "group": "30",
+            "user": "Fuad Mikayılov",
+            "userName": "fuadick",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "49",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "group": "30",
+            "user": "Şükür Şükürov",
+            "userName": "shukur-car",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "49",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "group": "30",
+            "user": "İbrahim Yusifov",
+            "userName": "ibo-konullu",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "49",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "group": "30",
+            "user": "Leyla Əliyeva",
+            "userName": "ley-lo",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "44",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "44",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "44",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "group": "30",
+            "user": "Nəzrin Məlikova",
+            "userName": "NM",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "32",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "30",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "30",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "31",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "group": "30",
+            "user": "Kəmaləddin Zeynalzade",
+            "userName": "kamuçka",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "32",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "30",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "32",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "group": "30",
+            "user": "Esmira Rzazadə",
+            "userName": "esmira06",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "HTML", 
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Javascript", 
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Java Proqramlaşdırma dili I",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Kompüter Təhlükəsizliyi",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Photoshop",
+                    "point1": "49",
+                    "point2": "0"
+                }
+            ]
+        }
+    ]
+}
