@@ -351,7 +351,7 @@
                 {
                     "id": 1,
                     "name": "HTML",
-                    "point1": "37",
+                    "point1": "45",
                     "point2": "0"
                 },
                 {
@@ -363,7 +363,7 @@
                 {
                     "id": 3,
                     "name": "Java Proqramlaşdırma dili I",
-                    "point1": "39",
+                    "point1": "45",
                     "point2": "0"
                 },
                 {
@@ -718,6 +718,730 @@
                     "id": 5,
                     "name": "Photoshop",
                     "point1": "33",
+                    "point2": "0"
+                }
+            ]
+        }
+    ],
+    "group57": [
+        {
+            "id": 1,
+            "group": "57",
+            "user": "Aslanov İnal",
+            "userName": "inal-1",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "25",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "24",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "25",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "group": "57",
+            "user": "Hacızadə Adil",
+            "userName": "adil-12",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "26",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "27",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "27",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "27",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "group": "57",
+            "user": "Əsədov Altay",
+            "userName": "altay-6",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "25",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "24",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "25",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "group": "57",
+            "user": "Əşrəfov Məhəmməd",
+            "userName": "əşrəfov-1",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "25",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "24",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "23",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "25",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "group": "57",
+            "user": "Rəhimli Əlisadir",
+            "userName": "sadir",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "32",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "34",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "group": "57",
+            "user": "Qurbanov Fateh",
+            "userName": "fateh-12",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "32",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "35",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "group": "57",
+            "user": "Məmmədzadə Gövhər",
+            "userName": "gohu-9",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "27",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "29",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "29",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "group": "57",
+            "user": "Məmmədova Nailə",
+            "userName": "naile-1",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "27",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "29",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "29",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "group": "57",
+            "user": "İmaməliyeva Səbinə",
+            "userName": "sabina",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "34",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "32",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "34",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "35",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "group": "57",
+            "user": "Əsgərova Sərfi",
+            "userName": "serfi.10",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "35",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "36",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "37",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "39",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "group": "57",
+            "user": "Zairli Murad",
+            "userName": "muradik",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "36",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "40",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "39",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "group": "57",
+            "user": "Əliyeva Şəlalə",
+            "userName": "shelale-13",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "36",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "group": "57",
+            "user": "Cabarov Yusif",
+            "userName": "yusif.10",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "40",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "39",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "40",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "39",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "group": "57",
+            "user": "Məlikov Oruc",
+            "userName": "ramazan",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "group": "57",
+            "user": "Babayev Əli",
+            "userName": "ali78",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "group": "57",
+            "user": "Əliyeva Güllalə",
+            "userName": "lale9",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "43",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "44",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "4",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "group": "57",
+            "user": "Cabarov Aysel",
+            "userName": "aysel-cabar",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "41",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "group": "57",
+            "user": "Haşımova Nəcibə",
+            "userName": "necibe-88",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "47",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "49",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "50",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
+                    "point2": "0"
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "group": "57",
+            "user": "Şirəliyev Hüseyn",
+            "userName": "husso",
+            "moduls":  [
+                {
+                    "id": 1,
+                    "name": "Proqramlaşdırmanın əsasları",
+                    "point1": "44",
+                    "point2": "0"
+                },
+                {
+                    "id": 2,
+                    "name": "Ofis proqramları",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 3,
+                    "name": "Əməliyyat sistemləri",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 4,
+                    "name": "Rəqəmsal dövrənin əsasları",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 5,
+                    "name": "Azərbaycan tarixi",
+                    "point1": "48",
                     "point2": "0"
                 }
             ]
