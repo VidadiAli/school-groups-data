@@ -759,6 +759,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "25",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "26",
+                    "point2": "0"
                 }
             ]
         },
@@ -797,6 +809,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "27",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "29",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "25",
+                    "point2": "0"
                 }
             ]
         },
@@ -833,6 +857,18 @@
                 {
                     "id": 5,
                     "name": "Azərbaycan tarixi",
+                    "point1": "25",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "26",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
                     "point1": "25",
                     "point2": "0"
                 }
@@ -873,6 +909,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "25",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "30",
+                    "point2": "0"
                 }
             ]
         },
@@ -910,6 +958,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "34",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "26",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "29",
                     "point2": "0"
                 }
             ]
@@ -949,6 +1009,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "35",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "31",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "36",
+                    "point2": "0"
                 }
             ]
         },
@@ -986,6 +1058,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "29",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "30",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "43",
                     "point2": "0"
                 }
             ]
@@ -1025,6 +1109,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "29",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "28",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "35",
+                    "point2": "0"
                 }
             ]
         },
@@ -1061,6 +1157,18 @@
                 {
                     "id": 5,
                     "name": "Azərbaycan tarixi",
+                    "point1": "35",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "35",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
                     "point1": "35",
                     "point2": "0"
                 }
@@ -1101,6 +1209,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "39",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "37",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "35",
+                    "point2": "0"
                 }
             ]
         },
@@ -1138,6 +1258,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "39",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "36",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "42",
                     "point2": "0"
                 }
             ]
@@ -1177,6 +1309,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "36",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "33",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "34",
+                    "point2": "0"
                 }
             ]
         },
@@ -1214,6 +1358,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "39",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "38",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "38",
                     "point2": "0"
                 }
             ]
@@ -1253,6 +1409,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "44",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "45",
+                    "point2": "0"
                 }
             ]
         },
@@ -1290,6 +1458,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "42",
                     "point2": "0"
                 }
             ]
@@ -1329,6 +1509,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "46",
+                    "point2": "0"
                 }
             ]
         },
@@ -1366,6 +1558,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "46",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "44",
                     "point2": "0"
                 }
             ]
@@ -1405,6 +1609,18 @@
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
                     "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "45",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "49",
+                    "point2": "0"
                 }
             ]
         },
@@ -1442,6 +1658,18 @@
                     "id": 5,
                     "name": "Azərbaycan tarixi",
                     "point1": "48",
+                    "point2": "0"
+                },
+                {
+                    "id": 6,
+                    "name": "İnformasiya Texnologiyaları I",
+                    "point1": "41",
+                    "point2": "0"
+                },
+                {
+                    "id": 7,
+                    "name": "Xarici dil I",
+                    "point1": "44",
                     "point2": "0"
                 }
             ]
